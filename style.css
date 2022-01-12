@@ -2,3 +2,12 @@
   margin-top: 3rem;
   margin-bottom: 3rem;
 }
+
+.post-image {
+  /* height: 20%; */
+  width: 100%;
+}
+
+.bg-timeAgo {
+  background: rgba(100, 78, 197, 0.137);
+}
